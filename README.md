@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ReddyPrashanth
+- 👋 Hi, I’m Prashanth Sreepathi
 - 👀 I’m interested in Software Engineering
 - 🌱 I’m currently learning AWS DevOps
 - 💞️ I’m looking to collaborate on ...
