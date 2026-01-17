@@ -1,32 +1,29 @@
-# Hi there, I'm Prashanth Reddy 👋
+# Hi there, I'm Prashanth Sreepathi 👋
 
-### 🌟 Full Stack Developer | Tech Enthusiast | Problem Solver
+### 🌟 Senior Full-Stack Engineer | Cloud-Native Builder | Automation-First
 
-Welcome to my GitHub profile! I'm a passionate full-stack developer with a knack for building dynamic, responsive, and user-friendly applications. With a strong foundation in both front-end and back-end technologies, I aim to create impactful solutions that make a difference.
+I build data-heavy platforms and cloud-native services with 8+ years of experience. I lead teams, design scalable systems, and ship production apps using Laravel, NestJS, and modern
+frontend frameworks. Strong focus on API design, microservices, CI/CD, AWS, data pipelines, and automation.
 
-### 🛠 Tech Stack & Expertise
-- **Languages**: JavaScript (ES6+), TypeScript, PHP, SQL, Python
-- **Frontend**: Vue.js 3, Inertia.js, Tailwind CSS, Bootstrap, React, Alpine JS
-- **Backend**: Laravel, NestJS, Node.js, Django
-- **Database**: MySQL, MariaDB, Postgres
-- **DevOps**: Docker, AWS, CI/CD pipelines, Github and Gitlab
-- **Other Tools**: Grafana K6 for load testing, Elasticsearch, Logstash, Keycloak, Prometheus, Grafana
+## 🎯 Focus Areas
+- Backend architecture, microservices, and event-driven systems
+- Cloud-native delivery on AWS with CI/CD and automation
+- Data-heavy platforms and geospatial workflows
 
-### ✍️ Published Articles
-I love sharing knowledge through technical blogs and articles on full-stack development, containerization, and cloud services. Check out my latest write-ups [here](https://reddyprashanth.github.io/articles).
+## 🛠 Core Skills
+- Backend: Laravel, NestJS, Node.js, REST APIs, Microservices
+- Frontend: Angular, Vue, React, Inertia.js, Tailwind CSS
+- Cloud/DevOps: AWS, Docker, GitHub Actions, GitLab CI, Terraform, Kubernetes
+- Data: PostgreSQL, MySQL, Redis, MongoDB, Elasticsearch
+- AI/Automation: LLM integration, AI agents, n8n, Claude Code, Codex
 
-### 📈 Current Focus
-- Building scalable backend architectures with Laravel and NestJS
-- Enhancing UI components and exploring state management with Vue.js 3
-- Integrating secure SSO solutions with Keycloak
+## 🚀 Selected Work
+- GeoEngine 5 – high-throughput geospatial processing platform
+- FEWS NET Data Portal – drought monitoring platform for USGS
+- FFI – event-driven microservices migration for ecological monitoring
+- Eventura – full-stack event platform (Laravel 12, Inertia, Vue 3)
 
-### 📫 How to Reach Me
-- **Website**: [reddyprashanth.github.io](https://reddyprashanth.github.io/)
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/reddyprashanth/)
-- **Twitter**: [@reddy_prashanth](https://twitter.com/reddy_prashanth)
-
-### 📊 GitHub Stats
-![Prashanth's GitHub stats](https://github-readme-stats.vercel.app/api?username=reddyprashanth&show_icons=true&theme=radical)
-
-### 🎯 Let's Collaborate!
-I’m always excited to work on new projects and collaborate with fellow developers. Feel free to check out my repositories or get in touch for exciting opportunities!
+## 🔗 Links
+- Portfolio: https://reddyprashanth.github.io
+- Blog: https://buildwithcode.dev
+- LinkedIn: https://www.linkedin.com/in/prashanth-sreepathi-79a891188
