@@ -68,4 +68,5 @@ to minutes.
 
 ## 🔗 Links
 - Blog: https://buildwithcode.dev
+- Portfolio: https://buildwithcode.dev/about
 - LinkedIn: https://www.linkedin.com/in/prashanth-sreepathi-79a891188
