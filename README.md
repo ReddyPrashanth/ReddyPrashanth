@@ -67,6 +67,5 @@ to minutes.
 - FFI Team Award (2022)
 
 ## 🔗 Links
-- Portfolio: https://reddyprashanth.github.io
 - Blog: https://buildwithcode.dev
 - LinkedIn: https://www.linkedin.com/in/prashanth-sreepathi-79a891188
